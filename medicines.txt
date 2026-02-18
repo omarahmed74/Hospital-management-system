@@ -1,0 +1,11 @@
+1;panadol;100.0
+2;teramadol;380.0
+3;aspirin;10.0
+4;telefast;50.0
+5;fevadool;30.0
+6;amoxicillin;250.0
+7;paracetamol;10.0
+8;antopral;78.0
+9;fevadol;95.0
+10;cataflam;68.0
+11;comtrex;85.0

@@ -1,0 +1,9 @@
+1;seif;25;Male;cosmatic
+2;yassin;28;Male;internal
+3;hayaa;22;Female;dentist
+4;mostafa;32;Male;eye
+5;eman;36;Female;orthopedic
+7;osama;26;Male;neurologist
+6;yasmin;41;Female;obstetrician
+8;malak;20;Female;surgeon
+9;esraa;32;Female;nervous
